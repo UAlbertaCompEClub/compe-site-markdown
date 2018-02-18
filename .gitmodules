@@ -1,3 +1,6 @@
 [submodule "themes/hugo-icon"]
 	path = themes/hugo-icon
 	url = https://github.com/UAlbertaCompEClub/hugo-icon.git
+[submodule "public"]
+	path = public
+	url = https://github.com/UAlbertaCompEClub/compe-site-html.git
