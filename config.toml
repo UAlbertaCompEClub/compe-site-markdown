@@ -32,13 +32,13 @@ title = "Computer Engineering Club"
     enable = true
 
     [[params.mission.images.list]]
-      img = "images/img_3.jpg"
+      img = "img/jerseys.jpg"
     [[params.mission.images.list]]
-      img = "images/img_2.jpg"
+      img = "img/hackED2018.jpg"
     [[params.mission.images.list]]
-      img = "images/img_1.jpg"
+      img = "img/hoodies.jpg"
     [[params.mission.images.list]]
-      img = "images/img_4.jpg"
+      img = "img/hackED2017.jpg"
 
   [[params.mission.item]]
     weight = 1
