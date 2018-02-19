@@ -314,6 +314,18 @@ title = "Computer Engineering Club"
     # linkedin = "#"
 
   [[params.team.item]]
+    name = "Dannick Pomerleau"
+    position = "Grad Rep"
+    description = "5th Year Co-op"
+    img = "images/person3.jpg"
+    # facebook = "#"
+    # twitter = "#"
+    # dribbble = "#"
+    # instagram = "#"
+    github = "#"
+    # linkedin = "#"
+
+  [[params.team.item]]
     name = "Raymond Sarinas"
     position = "Office Rep"
     description = "Nth Year"
